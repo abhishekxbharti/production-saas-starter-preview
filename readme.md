@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://production-saas-starter.vercel.app">Live Demo →</a>
+  <a href="https://production-saas-starter.vercel.app" target="_blank">Live Demo →</a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 This starter includes **authentication**, **payments**, **emails**, and **core security features** out of the box — so you can focus on building your product, not wiring infrastructure.
 
-> Used in production at **[Lizefy](https://lizefy.com)** and **[GloChat](https://glochat.live)**.
+> Used in production at **<a href="https://lizefy.com" target="_blank">Lizefy</a>** and **<a href="https://glochat.live" target="_blank">GloChat</a>**.
 
 ---
 
@@ -103,10 +103,10 @@ This starter is ideal for:
 ---
 
 <p align="center">
-  <a href="https://production-saas-starter.vercel.app"><strong>Live Demo →</strong></a>
+  <a href="https://production-saas-starter.vercel.app" target="_blank"><strong>Live Demo →</strong></a>
 </p>
 
 <p align="center">
-  Built by <a href="https://abhishekxbharti.com"><strong>Abhishek Bharti</strong></a><br/>
-  <a href="mailto:abhishekxbharti@gmail.com">abhishekxbharti@gmail.com</a> · <a href="https://abhishekxbharti.com">abhishekxbharti.com</a>
+  Built by <a href="https://abhishekxbharti.com" target="_blank"><strong>Abhishek Bharti</strong></a><br/>
+  <a href="mailto:abhishekxbharti@gmail.com">abhishekxbharti@gmail.com</a> · <a href="https://abhishekxbharti.com" target="_blank">abhishekxbharti.com</a>
 </p>
